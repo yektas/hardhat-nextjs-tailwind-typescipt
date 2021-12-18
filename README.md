@@ -1,4 +1,4 @@
-## This is a starter template for a blockhain developer
+## This is a starter template for a blockchain developer
 
 - Typescript
 - Hardhat
